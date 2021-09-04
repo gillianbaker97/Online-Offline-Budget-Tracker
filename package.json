@@ -12,6 +12,9 @@
     "prestart": "npm run webpack"
 
   },
+  "engines": {
+    "node": "8.5.0"
+},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/coding-boot-camp/unit18hw.git"
